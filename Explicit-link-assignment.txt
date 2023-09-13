@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Explicit Link Assignment</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Ftibetan-mastiff-dog-breed-profile-4775533&psig=AOvVaw31LqHGMAmdT4tJca-iLoEb&ust=1674426335401000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCWyrvb2fwCFQAAAAAdAAAAABAf">Dog</a>		
+</body>
+</html>
