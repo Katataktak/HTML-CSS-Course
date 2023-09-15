@@ -1,0 +1,7 @@
+<a href ="https://youtu.be/vel7axGDmsE?si=uns7bQ2ntpe6SeaN">Dog video</a>
+
+<nav>
+	<a href="Assignment-copy.html">Home</a>
+	<a href="implicit-link.html">Dog Picture</a>
+	<a href="Dog_video.html">Dog Video</a>
+</nav>
